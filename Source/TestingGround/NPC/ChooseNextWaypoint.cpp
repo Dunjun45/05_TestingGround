@@ -4,7 +4,6 @@
 #include "ChooseNextWaypoint.h"
 #include "BehaviorTree/BlackboardComponent.h"
 #include "AIController.h"
-#include "PatrollingGuard.h"
 #include "PatrolPoints.h"
 #include "Math.h"
 
